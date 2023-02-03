@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735982900213",
+    "firebase_url": "https://collab-37c27-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "collab-37c27",
+    "storage_bucket": "collab-37c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735982900213:android:a6f294fe58f222756f86bc",
+        "android_client_info": {
+          "package_name": "com.example.collab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735982900213-4rkm1l5l85mi1esh9a6sd60k09l3he4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAttBlO9uooyfJwwwTWt263xZ1m0U7tWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735982900213-4rkm1l5l85mi1esh9a6sd60k09l3he4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
