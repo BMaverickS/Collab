@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Collab</string>
+
+    <string name="logo">Logo</string>
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="tidak_punya_akun">Tidak punya akun ?</string>
+    <string name="disini">disini.</string>
+    <string name="have_an_account_already">Have an account already ?</string>
+
+    <string name="username">Username</string>
+    <string name="konfirmasi_password">Konfirmasi password</string>
+    <string name="sudah_punya_akun">Sudah punya akun ?</string>
+
+    <string name="cari_grup_untuk_bergabung">Cari grup untuk bergabung</string>
+    <string name="buat_grup_baru">Buat grup baru</string>
+
+    <string name="id_grup">ID grup</string>
+    <string name="password_grup">Password grup</string>
+    <string name="bergabung">Bergabung</string>
+
+    <string name="ketik_disini">Ketik disini</string>
+    <string name="tombol_kirim">Tombol kirim</string>
+
+    <string name="nama_grup">Nama grup</string>
+    <string name="buat">Buat</string>
+
+    <string name="buat_channel_baru">Buat channel baru</string>
+    <string name="tambah_anggota_baru">Tambah anggota baru</string>
+
+    <string name="nama_channel">Nama channel</string>
+
+    <string name="id_pengguna">ID pengguna</string>
+
+    <string name="cari">Cari</string>
+    <string name="tambah">Tambah</string>
+
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+
+    <string name="to_do">To Do</string>
+    <string name="buat_to_do_baru">Buat to do baru</string>
+
+    <string name="judul">Judul</string>
+    <string name="tanggal_mulai">Tanggal mulai</string>
+    <string name="tanggal_berakhir">Tanggal berakhir</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="ditugaskan_kepada">Ditugaskan kepada</string>
+    <string name="grup_pemberi_tugas">Grup pemberi tugas</string>
+
+    <string name="tingkat_kemajuan">Tingkat kemajuan</string>
+
+    <string name="profil">Profil</string>
+    <string name="ikon_pengaturan">Ikon pengaturan</string>
+
+    <string name="notifikasi">Notifikasi</string>
+    <string name="logout">Logout</string>
+
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_group">GroupActivity</string>
+
+    <string name="delete">Hapus</string>
+    <string name="delete_group">Hapus Grup</string>
+    <string name="delete_channel">Hapus Channel</string>
+
+</resources>
